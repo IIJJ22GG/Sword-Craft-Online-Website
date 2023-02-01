@@ -36,7 +36,6 @@ header {
     flex-direction: column;
 }
 header h1 {
-    height: fit-content;
     font-weight: bold;
     font-size: 7vw;
     align-self: center;
